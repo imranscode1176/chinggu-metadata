@@ -1,7 +1,7 @@
 {
   "description": "Chinggu means friend. This collection is a fun and creative set of unique digital characters full of personality and style. Every Chinggu is different, generated from hand crafted traits and designs. Collect your Chinggu and join the friendly digital world.",
   "external_url": "",
-  "image": "https://arweave.net/rHt6E5FF4XGty9SLj2mW9qy0yGOMizOQAK4D0Dc-2SY",
+  "image": "https://arweave.net/tAY04UmHugpBymK95C5AQhqCY1oAWt_RbVBQvQzKnfo",
   "name": "Chinggu #499",
   "attributes": [
     {
@@ -10,11 +10,11 @@
     },
     {
       "trait_type": "body",
-      "value": "cavern_pink"
+      "value": "atomic_tangerine"
     },
     {
       "trait_type": "cloth",
-      "value": "tee_green_white"
+      "value": "jacket_big_multicolor"
     },
     {
       "trait_type": "eyes",
@@ -30,11 +30,11 @@
     },
     {
       "trait_type": "glasses",
-      "value": "3_d"
+      "value": "rose"
     },
     {
       "trait_type": "smoke",
-      "value": "no_smoke"
+      "value": "cigarete"
     }
   ]
 }
